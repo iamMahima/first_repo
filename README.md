@@ -18,3 +18,5 @@ This is also a Github class
 |Mahi|20|
 |him|26|
 |santu|29|
+
+for more information click [here](https://www.w3schools.com/python/default.asp)
